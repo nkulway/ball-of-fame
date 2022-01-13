@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "winger",
+    "password": null,
+    "database": "ball_of_fame",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL"
+  }
+}
